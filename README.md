@@ -22,7 +22,7 @@ The **IoT-Based Irrigation System** is an innovative solution designed to improv
   
 ## Project Structure
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/d9fdb764-2281-4473-864a-dbbed982886c" alt="Description of the image"/>
+  <img src="https://github.com/user-attachments/assets/d9fdb764-2281-4473-864a-dbbed982886c" alt="Description of the image" width="full"/>
 </p>
 
 <p align="right">

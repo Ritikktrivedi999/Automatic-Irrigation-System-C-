@@ -23,7 +23,7 @@ The **IoT-Based Irrigation System** is an innovative solution designed to improv
 ## Project Structure
 ![Screenshot 2024-09-16 185221](https://github.com/user-attachments/assets/d9fdb764-2281-4473-864a-dbbed982886c)
 <p align="right">
-  <img src="https://github.com/user-attachments/assets/6e09230a-f479-460b-af7f-811a3e31df46" alt="Description of the image" />
+  <img src="https://github.com/user-attachments/assets/6e09230a-f479-460b-af7f-811a3e31df46" alt="Description of the image" width="150"/>
 </p>
 ### Cloud Integration
 - The cloud platform enables real-time monitoring of sensor data and remote control of the irrigation system.

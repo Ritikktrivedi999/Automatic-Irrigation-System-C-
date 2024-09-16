@@ -22,7 +22,9 @@ The **IoT-Based Irrigation System** is an innovative solution designed to improv
   
 ## Project Structure
 ![Screenshot 2024-09-16 185221](https://github.com/user-attachments/assets/d9fdb764-2281-4473-864a-dbbed982886c)
-![Screenshot 2024-09-16 190845](https://github.com/user-attachments/assets/6e09230a-f479-460b-af7f-811a3e31df46)
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/6e09230a-f479-460b-af7f-811a3e31df46" alt="Description of the image" />
+</p>
 ### Cloud Integration
 - The cloud platform enables real-time monitoring of sensor data and remote control of the irrigation system.
 - Data is transmitted via the MQTT protocol, ensuring efficient communication between sensors, the microcontroller, and the cloud dashboard.
@@ -45,8 +47,6 @@ The **IoT-Based Irrigation System** is an innovative solution designed to improv
 
 ## Output on Cloud
 
-
 ![Screenshot 2024-09-16 185138](https://github.com/user-attachments/assets/4a36de00-b192-4e72-93fa-326df1bc4390)
-![Screenshot 2024-09-16 190948](https://github.com/user-attachments/assets/af64b1e3-139d-423e-ba01-7d200f59b706)
 ![Screenshot 2024-02-21 001011](https://github.com/user-attachments/assets/2d8dc0c0-9f5c-428f-8c67-d34ec591afea)
 
